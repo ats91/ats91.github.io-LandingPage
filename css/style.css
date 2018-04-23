@@ -73,15 +73,17 @@ overflow: hidden;
  
 #carouselLeft{
 position: absolute;
+width: 4%;
 top: 6%;
-left: 27%;
+left: 25.4%;
 cursor: pointer;
 }
 
 #carouselRight{
 position: absolute;
+width: 4%;
 top: 6%;
-left: 72.5%;
+left: 73.5%;
 cursor: pointer;
 }
 
